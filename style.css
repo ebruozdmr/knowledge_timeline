@@ -154,5 +154,6 @@ p{
         border-width:8px 16px 8px 0;/* top-right-bottom-left */
         border-color: transparent var(--secondary-color)  transparent transparent;
     }
+}
 /* Relative Position: Bir elemente göreceli bir değer verdiğinizde o bulunduğu yeri dikkate alarak verilen değerleri uygulayacaktır. */
 
